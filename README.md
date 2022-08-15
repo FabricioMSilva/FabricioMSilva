@@ -78,7 +78,7 @@
 <a href="https://stiff-side.surge.sh/"><img src="./img/labfood.png"> </img></a>
 <h3> 3ª Projeto PHP -  </h3>
 <h4> Trabalho feito em conjunto ao professor da UDEMY;
-<a href=""><img src="./img/projeto blog 2.jpg"> </img></a>
+<a href="https://github.com/FabricioMSilva/projeto-blog.git"><img src="./img/projeto blog 2.jpg"> </img></a>
 <!--
 **FabricioMSilva/FabricioMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
