@@ -75,7 +75,7 @@
 <a href="https://e-burguer-trainner.netlify.app/"><img src="./img/eburguer.png"> </img></a>
 <h3> 2ª Projeto LABENU - LabeFood </h3>
 <h4> Trabalho feito em grupo na LABENU;
-<a href="https://stiff-side.surge.sh/"><img src="./img/labfood"> </img></a>
+<a href="https://stiff-side.surge.sh/"><img src="./img/labfood.png"> </img></a>
 
 <!--
 **FabricioMSilva/FabricioMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
