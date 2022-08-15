@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 Sou Fabricio tenho 37 anos, Hoje procuro um oportunidade na area da tecnologia.
+### Hi there 👋 Fabricio Silva I'm 37 years old, Today I'm looking for an opportunity in technology.
 
 <img src="./img/Fabricio Silva.gif" width="100%"></img>
 
