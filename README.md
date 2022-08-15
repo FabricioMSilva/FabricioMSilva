@@ -38,8 +38,8 @@
   
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
   <h2> Materias Absorvidas na graduação em Sistema de Informação</h2>
- <div class="info">
-  <div style="display: inline_block" >
+ <div style="display: inline_block" align="center">
+  <div style="display: inline_block" align="center" >
     <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
     <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
     <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
@@ -51,7 +51,7 @@
     <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
     <li>PENSAMENTO COMPUTACIONAL</li>
   </div>
-  <div style="display: inline_block" >
+  <div style="display: inline_block" align="center" >
     <li>ANÁLISE DE DADOS</li>
     <li>COMPORTAMENTO ORGANIZACIONAL</li>
     <li>ESTRUTURA DE DADOS EM C</li>
