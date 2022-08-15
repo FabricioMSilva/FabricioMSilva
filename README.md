@@ -37,7 +37,7 @@
   <h2> Aprendizado na Labenu </h2>
   
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
-  <h2> Materias Absorvidas na graduação em Sistema de Informação</h2>
+  <h2> Matérias Absorvidas na graduação em Sistema de Informação</h2>
  <div style="display: inline_block" align="center">
   <div style="display: inline_block" align="center" >
     <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
@@ -66,6 +66,14 @@
   </div>
   
 </div>
+<div>
+
+
+<h2>Projetos
+<h3> 1ª Projeto Particula - Curso de Hamburguer </h3>
+
+<a href="https://e-burguer-trainner.netlify.app/pag1"><img src="./img/eburguer.png"> </img></a>
+
 
 <!--
 **FabricioMSilva/FabricioMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
