@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" href="./style.css">
-</head>
+
 
 ### Hi there 👋
 
@@ -28,7 +26,7 @@
   
 </div>
 
-<div align="center"> 
+<div align="center" > 
   <a href="https://api.whatsapp.com/send?phone=5524993081222&text=Oi%20estava%20no%20seu%20Git%20Hub!" target="_blank"><img src="https://img.shields.io/badge/-Whatszap-success" target="_blank"></a>
   <a href="https://www.instagram.com/fabriciovrsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabriciomdasilva8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -41,7 +39,7 @@
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
   <h2> Materias Absorvidas na graduação em Sistema de Informação</h2>
  <div class="info">
-  <div>
+  <div style="display: inline_block" >
     <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
     <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
     <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
@@ -53,7 +51,7 @@
     <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
     <li>PENSAMENTO COMPUTACIONAL</li>
   </div>
-  <div>
+  <div style="display: inline_block" >
     <li>ANÁLISE DE DADOS</li>
     <li>COMPORTAMENTO ORGANIZACIONAL</li>
     <li>ESTRUTURA DE DADOS EM C</li>
