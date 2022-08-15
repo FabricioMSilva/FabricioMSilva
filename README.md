@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="./style.css">
+</head>
+
 ### Hi there 👋
 
 <img src="./img/Fabricio Silva.gif" width="100%"></img>
@@ -36,18 +40,21 @@
   
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
   <h2> Materias Absorvidas na graduação em Sistema de Informação</h2>
-  
-  <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
-  <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
-  <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
-  <li>ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES</li>
-  <li>PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL</li>
-  <li>BANCO DE DADOS</li>
-  <li>COMPUTAÇÃO EM NUVEM E WEB SERVICES EM LINUX</li>
-  <li>DESENVOLV. WEB EM HTML5, CSS, JAVASCRIPT E PHP</li>
-  <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
-  <li>PENSAMENTO COMPUTACIONAL</li>
-  <li>ANÁLISE DE DADOS</li>
+ <div class="info">
+  <div>
+    <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
+    <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
+    <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
+    <li>ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES</li>
+    <li>PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL</li>
+    <li>BANCO DE DADOS</li>
+    <li>COMPUTAÇÃO EM NUVEM E WEB SERVICES EM LINUX</li>
+    <li>DESENVOLV. WEB EM HTML5, CSS, JAVASCRIPT E PHP</li>
+    <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
+    <li>PENSAMENTO COMPUTACIONAL</li>
+  </div>
+  <div>
+    <li>ANÁLISE DE DADOS</li>
     <li>COMPORTAMENTO ORGANIZACIONAL</li>
     <li>ESTRUTURA DE DADOS EM C</li>
     <li>NEGÓCIOS ELETRÔNICOS</li>
@@ -60,7 +67,7 @@
 
   </div>
   
-
+</div>
 
 <!--
 **FabricioMSilva/FabricioMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
