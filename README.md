@@ -1,6 +1,6 @@
 
 
-### Hi there 👋
+### Hi there 👋 Sou Fabricio tenho 37 anos, Hoje procuro um oportunidade na area da tecnologia.
 
 <img src="./img/Fabricio Silva.gif" width="100%"></img>
 
@@ -70,9 +70,9 @@
 
 
 <h2>Projetos
-<h3> 1ª Projeto Particula - Curso de Hamburguer </h3>
+<h3> 1ª Projeto Particular - Curso de Hamburguer </h3>
 
-<a href="https://e-burguer-trainner.netlify.app/pag1"><img src="./img/eburguer.png"> </img></a>
+<a href="https://e-burguer-trainner.netlify.app/"><img src="./img/eburguer.png"> </img></a>
 
 
 <!--
