@@ -37,9 +37,23 @@
   <h2> Aprendizado na Labenu </h2>
   
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
-  <h2> Matérias Absorvidas na graduação em Sistema de Informação</h2>
- <div style="display: inline_block" align="center">
-  <div style="display: inline_block" align="center" >
+  
+    <h2 align="center"> Matérias Absorvidas na LABENU</h2>
+  
+  <h3 align="center"> Módulo 1 - Git, Lógica de Programação e JavaScript</h3>
+<li>Conhecendo o Computador e o Terminal, Git, Variáveis, Operadores e Lógica de Programação, Strings e Arrays, Funções, Objetos, Condicionais, Laços, Callback e Funções de Array</li>
+<h3 align="center">Módulo 2 - HTML e CSS</h3>
+<li>HTML: Elementos e Atributos, CSS, Flexbox e Grid, Responsividade, Concepção de produto e Processos ágeis, Acessibilidade</li>
+<h3 align="center">Módulo 3 - Introdução ao React</h3>
+<li>Componentes Funcionais, props e styled-components, Componentes de Classe + Estados, Renderização de Listas, Renderização Condicional, Ciclo de Vida em componentes de classe, Debugando React, HTTPS e Postman, Integrações de API, async & await.</li>
+<h3 align="center">Módulo 4 - React Avançado e Hooks</h3>
+<li>Introdução aos Hooks e useState(),Hook useEffect(), Design Systems, Custom Hooks, Navegação com React Router, Autenticação em aplicações React,  React Context, Estado Global usando Context.</li>
+<h3 align="center">Módulo 5 - Introdução ao Backend</h3>
+<li>Node e package.json, Typescript, Introdução a APIS e Express.js, Aprofundamento em Express.js</li>
+
+  <h2 align="center"> Matérias Absorvidas na graduação em Sistema de Informação</h2>
+ <div style="display: inline_block" >
+  <div style="display: inline_block"  >
     <li>FUNDAMENTOS DE REDES DE COMPUTADORES</li>
     <li>INTRODUÇÃO A PROGRAMAÇÃO ESTRUTURADA EM C</li>
     <li>INTRODUÇÃO A SEGURANÇA DA INFORMAÇÃO</li>
@@ -51,7 +65,7 @@
     <li>PARADIGMAS DE LING. DE PROGRAMAÇÃO EM PYTHON</li>
     <li>PENSAMENTO COMPUTACIONAL</li>
   </div>
-  <div style="display: inline_block" align="center" >
+  <div style="display: inline_block" >
     <li>ANÁLISE DE DADOS</li>
     <li>COMPORTAMENTO ORGANIZACIONAL</li>
     <li>ESTRUTURA DE DADOS EM C</li>
