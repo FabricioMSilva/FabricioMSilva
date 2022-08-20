@@ -26,8 +26,7 @@
   <img align="center" alt="typescript" height="40" width="50" src="https://www.svgrepo.com/show/349540/typescript.svg" />
     <img align="center" alt="typescript" height="40" color="white" width="50" src="https://www.svgrepo.com/show/306453/mysql.svg" />
 </div>
-</br>
-</br>
+
 </br>
 </br>
 <div align="center" > 
