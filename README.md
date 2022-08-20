@@ -38,7 +38,6 @@
   
   <img src="https://user-images.githubusercontent.com/87395533/184513723-a7322548-c570-4651-a2a6-003e69773227.png"></img>
   
-    <h2> Matérias Absorvidas na LABENU</h2>
   
   <h3 align="center"> Módulo 1 - Git, Lógica de Programação e JavaScript</h3>
 <li>Conhecendo o Computador e o Terminal, Git, Variáveis, Operadores e Lógica de Programação, Strings e Arrays, Funções, Objetos, Condicionais, Laços, Callback e Funções de Array</li>
