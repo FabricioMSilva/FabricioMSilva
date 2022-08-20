@@ -23,7 +23,7 @@
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
  <img align="center" alt="Fabricio-Js" height="40" width="50" src="https://www.php.net/images/logos/new-php-logo.svg" />
-  
+  <img align="center" alt="typescript" height="40" width="50" src="https://www.svgrepo.com/show/349540/typescript.svg" />
 </div>
 
 <div align="center" > 
