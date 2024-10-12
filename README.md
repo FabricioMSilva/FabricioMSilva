@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 Fabricio Silva I'm 37 years old, Today I'm looking for an opportunity in technology.
+### Hi there 👋 Fabricio Silva I'm 37 years old, Devolper Front-End.
 
 <img src="./img/Fabricio Silva.gif" width="100%"></img>
 
